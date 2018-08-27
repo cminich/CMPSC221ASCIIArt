@@ -1,0 +1,20 @@
+public class Main 
+{
+  
+   public static void main(String[] args) 
+   {
+      System.out.println("|￣￣￣￣￣￣ |");
+      System.out.println("| I           |");
+      System.out.println("| AM          |");
+      System.out.println("| SIGN        |");
+      System.out.println("| BUNNY       | ");
+      System.out.println("|_____________| ");
+      System.out.println(" () () ||");
+      System.out.println("(•ㅅ•) || ");
+      System.out.println("/ 　 づ");
+      System.out.println(" *** ");
+      System.out.println(" *** ");
+      
+  }
+  
+}
